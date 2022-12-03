@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your changes.
  -->
 
 
-![Footer](./footer.png)
+![Footer](./95972672-0992-4710-ADD5-FCD63FA1B824.png)
